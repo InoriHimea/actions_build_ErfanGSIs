@@ -16,7 +16,7 @@ on:
 env:
   ROM_URL: https://get.pixelexperience.org/SExqeDFvdEFTaC9naUJzY1p1eXE4WWpCUzRDRGcxcXlyVzFVRkhVOFN4QWJRM2RvTXYrb1BwN1VBWjRiSHFSbjVrWFQ1czVXQTZnTHVQRUwrU3J4Zm5JN1dhL04rZThKb1dxc1JkUi9xWkE9/PixelExperience_Plus_beyond2lte-12.1-20220522-1846-OFFICIAL.zip
   ROM_NAME: Pixel
-  BUILD_TYPE: Aonly
+  BUILD_TYPE: AB
   TZ: Asia/Shanghai
 
 jobs:
